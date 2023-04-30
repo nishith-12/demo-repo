@@ -1,3 +1,3 @@
 #demo
 
-I'm committed to Learning Git 
+I'm committed to Learning Git!
